@@ -120,6 +120,9 @@ footer a:hover{
 body{
   background-image: url(images/bg-mobile.svg);
 }
+.container{
+  padding: 3rem;
+}
 .header_img{
   width: 10rem;
 }
