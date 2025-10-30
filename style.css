@@ -46,7 +46,7 @@ body{
 }
 header{
   width: 100%;
-  padding: 0rem 0rem 3rem 0rem;
+  margin-bottom: 3rem;
 }
 .header_img{
   width: 12rem;
@@ -119,12 +119,6 @@ footer a:hover{
 @media screen and (max-width:620px){
 body{
   background-image: url(images/bg-mobile.svg);
-}
-.container{
-  width: 100%;
-}
-header{
-  padding: 0rem 0rem 2.5rem 0rem;
 }
 .header_img{
   width: 10rem;
